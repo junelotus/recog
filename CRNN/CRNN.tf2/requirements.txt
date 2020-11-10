@@ -1,0 +1,2 @@
+pyyaml
+tensorflow >= 2.2
